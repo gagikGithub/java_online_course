@@ -11,6 +11,7 @@ public class Test {
         byte x = 127;
         System.out.println(x);
 
+
         short y = 4543;
         System.out.println(y);
 
